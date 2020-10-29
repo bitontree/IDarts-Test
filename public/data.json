@@ -1,0 +1,70 @@
+{
+  "results": [
+    {
+      "investmentType": "MF",
+      "symbolName": "AADR",
+      "qty": 430,
+      "price": 50.30,
+      "averageCost": 41.75,
+      "investedAmt": 17952.07,
+      "portfolioPercent": 22.06,
+      "pl": 3676.93,
+      "returnPercentage": 20.48
+    },
+    {
+      "investmentType": "MF",
+      "symbolName": "MFEM",
+      "qty": 210,
+      "price": 23.20,
+      "averageCost": 22.50,
+      "investedAmt": 4725.84,
+      "portfolioPercent": 5.81,
+      "pl": 146.16,
+      "returnPercentage": 3.09
+    },
+    {
+      "investmentType": "MF",
+      "symbolName": "JPEM",
+      "qty": 328,
+      "price": 52.50,
+      "averageCost": 56.70,
+      "investedAmt": 18597.60,
+      "portfolioPercent": 22.86,
+      "pl": -1377.60,
+      "returnPercentage": -7.41
+    },
+    {
+      "investmentType": "MF",
+      "symbolName": "KEMQ",
+      "qty": 801,
+      "price": 20.40,
+      "averageCost": 22.24,
+      "investedAmt": 17811.04,
+      "portfolioPercent": 21.89,
+      "pl": -1470.64,
+      "returnPercentage": -8.26
+    },
+    {
+      "investmentType": "ETF",
+      "symbolName": "KLDW",
+      "qty": 523,
+      "price": 32.90,
+      "averageCost": 26.32,
+      "investedAmt": 13765.36,
+      "portfolioPercent": 16.92,
+      "pl": 3441.34,
+      "returnPercentage": 25.00
+    },
+    {
+      "investmentType": "ETF",
+      "symbolName": "KOIN",
+      "qty": 335,
+      "price": 25.40,
+      "averageCost": 25.40,
+      "investedAmt": 8509.00,
+      "portfolioPercent": 10.46,
+      "pl": 0,
+      "returnPercentage": 0
+    }
+  ]
+}
